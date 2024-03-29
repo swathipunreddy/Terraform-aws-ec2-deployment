@@ -6,6 +6,6 @@ variable "ami_id" {
 variable "tags" {
   type = map(string)
   default = {
-    "name" = "Shubham's ec2"
+    "name" = "Swathi's ec2"
   }
 }
