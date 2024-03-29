@@ -18,6 +18,14 @@ Before using these Terraform configurations, ensure you have the following prere
    ```bash
    git clone https://github.com/swathipunreddy/Terraform-aws-ec2-deployment.git
 
+### Below is your Terraform configuration structured in a typical directory layout for version control and ease of use:
+```bash
+terraform/
+│
+├── main.tf
+├── variables.tf
+└── outputs.tf
+ ```
 ### Navigate to the project directory:
 
 ```bash
